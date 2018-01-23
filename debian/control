@@ -1,5 +1,5 @@
 Source: sublime
-Section: net
+Section: unknown
 Priority: optional
 Maintainer: shurrik <vissky1@163.com>
 Build-Depends: debhelper (>= 8.0.0)
