@@ -1,0 +1,5 @@
+sublime (3-1) trusty; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- shurrik <vissky1@163.com>  Tue, 23 Jan 2018 10:21:17 +0800
